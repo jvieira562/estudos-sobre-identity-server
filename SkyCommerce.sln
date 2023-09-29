@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apis", "Apis", "{E10078EF-E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SkyCommerce.Fretes", "SkyCommerce.Frete\SkyCommerce.Fretes.csproj", "{DC5DD110-6B95-4AE0-9C6D-6F5E23D9E15A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Parceiro", "Parceiro", "{F3FCDA38-A96C-4B5E-857B-1F5ED37EFB5E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parceiro.BackgroundService", "Parceiro.BackgroundService\Parceiro.BackgroundService.csproj", "{44B8A6E1-BE4A-43B0-9A15-48E409540F31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +59,10 @@ Global
 		{DC5DD110-6B95-4AE0-9C6D-6F5E23D9E15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC5DD110-6B95-4AE0-9C6D-6F5E23D9E15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC5DD110-6B95-4AE0-9C6D-6F5E23D9E15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B8A6E1-BE4A-43B0-9A15-48E409540F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B8A6E1-BE4A-43B0-9A15-48E409540F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B8A6E1-BE4A-43B0-9A15-48E409540F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B8A6E1-BE4A-43B0-9A15-48E409540F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -68,6 +76,7 @@ Global
 		{FC66095E-9DF4-4F09-B1E8-E24E820C3CF5} = {7F66EA88-48CA-4436-9524-2C0640BE323F}
 		{B249AFC0-0112-42EE-AC60-38B4EA0B5B13} = {30C95979-B8CF-474C-BA9E-39261D672B0E}
 		{DC5DD110-6B95-4AE0-9C6D-6F5E23D9E15A} = {E10078EF-EA10-442B-A517-3295E56D57FE}
+		{44B8A6E1-BE4A-43B0-9A15-48E409540F31} = {F3FCDA38-A96C-4B5E-857B-1F5ED37EFB5E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {359C7D20-CF39-4B1C-BA36-3227520A8398}

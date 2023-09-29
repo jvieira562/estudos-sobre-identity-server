@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {}
+    "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+    "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectUniqueName": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "projectName": "SkyCommerce.Domain",
-        "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+        "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
+        "outputPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Arquivos de Programas (dev)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

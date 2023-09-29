@@ -10821,11 +10821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+      "projectUniqueName": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
       "projectName": "SkyCommerce.Site",
-      "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+      "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
       "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\obj\\",
+      "outputPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Arquivos de Programas (dev)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10848,14 +10848,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
-              "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj"
+            "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj": {
+              "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.CrossCutting.Services\\SkyCommerce.CrossCutting.Services.csproj"
             },
-            "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
-              "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj"
+            "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj": {
+              "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Data\\SkyCommerce.Data.csproj"
             },
-            "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
-              "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
+            "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj": {
+              "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj"
             }
           }
         }

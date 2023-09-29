@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj": {}
+    "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj": {
+    "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
+        "projectUniqueName": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
         "projectName": "SkyCommerce.Fretes",
-        "projectPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
+        "projectPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
         "packagesPath": "C:\\Users\\conta\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\obj\\",
+        "outputPath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Arquivos de Programas (dev)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FGYNDCO1skBWqisnc+Tx+pWKW+qFzi3e7zyl0mw+lnNhcJ30V6pozunq+J6WI42AoYCWQMD658jduEHILEFwnA==",
+  "dgSpecHash": "pC/rGqhipt9pBodTo0sxVBVNl3N06JbgaCrS4/7C7SZU8uvQLTV+ZzzXCINTZMICOUnLAHXuqL32u1XZ5cxgEw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
+  "projectFilePath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Site\\SkyCommerce.Site.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\aspnetcore.iqueryable.extensions\\3.1.8\\aspnetcore.iqueryable.extensions.3.1.8.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",

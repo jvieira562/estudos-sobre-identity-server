@@ -9,3 +9,14 @@ C:\dev\Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.L
 C:\dev\Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csproj.CoreCompileInputs.cache
 C:\dev\Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.dll
 C:\dev\Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.pdb
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.deps.json
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\bin\Debug\netstandard2.1\SkyCommerce.Domain.pdb
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csproj.AssemblyReference.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\RefitStubs.g.cs
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.AssemblyInfoInputs.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.AssemblyInfo.cs
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.csproj.CoreCompileInputs.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\SkyCommerce.Loja\SkyCommerce.Domain\obj\Debug\netstandard2.1\SkyCommerce.Domain.pdb

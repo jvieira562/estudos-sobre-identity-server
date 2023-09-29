@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g7TRYkfCw0gKqSOHjGtgnoKqrYVSrONPNvNb12lAhtZ9GuAjRPQgBJGxXwyigfR7RR1mQUgmbnAip3x6BHp7qw==",
+  "dgSpecHash": "5vnhmd1JW02fEKKfP/jd6nXjRmLiCbl7mS0XaifKqByzC8QGpIAoh1RUVqAus3Tld6Ur2FP0wnT6eguLKeZeIw==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
+  "projectFilePath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Frete\\SkyCommerce.Fretes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.9\\microsoft.aspnetcore.authentication.jwtbearer.3.1.9.nupkg.sha512",

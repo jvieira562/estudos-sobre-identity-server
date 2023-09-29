@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRebzeShj0mTkBAqhJaiajOyISTtqNlY9huYXf8gZUMGd9e9yfNZs/O6fGHWf6jrMTwWgossp9wED6oJrbXD9Q==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\Parceiro.BackgroundService\\Parceiro.BackgroundService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\identitymodel\\4.4.0\\identitymodel.4.4.0.nupkg.sha512",
+    "C:\\Users\\conta\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\conta\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

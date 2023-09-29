@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t/AskVsW9mKxZAW2zrMCGOD67mMJTW07zfNRwcRcnb4HO7W1j5NxZyplSQXcwHBIuXgpADR8BknN+LkHMNCFqA==",
+  "dgSpecHash": "vRHZkJFUruyg/zZbYtxxxI1Qo0fOcadWz4Pr5ZLe4Zkif6S9EZH3Z0B3Dv0ozLM/yPPedBAM3tpv5LiLu6TXew==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
+  "projectFilePath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.SSO\\SkyCommerce.SSO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\costura.fody\\4.1.0\\costura.fody.4.1.0.nupkg.sha512",

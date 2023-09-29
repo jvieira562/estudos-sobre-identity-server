@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oEgEtTn+SEmJ4XyV6OHWNyt5ttaOzQabGukffk31rZWCg7YGzdCVJbx6lTUBfXI9DohdRLX23XnwaYnHJAsYNA==",
+  "dgSpecHash": "L8gi73Q5ExVdun+as7qBtiRRN/fS5TKE3FTdLOgvHimmEg1vOfl9Gffr0oTMXsU8TIcljj03d0iHWoHS6GchRQ==",
   "success": true,
-  "projectFilePath": "C:\\dev\\Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
+  "projectFilePath": "C:\\dev\\1 - Cursos\\Desenvolvedor.io\\Curso Identity Server 4\\SkyCommerce\\SkyCommerce.Loja\\SkyCommerce.Domain\\SkyCommerce.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\aspnetcore.iqueryable.extensions\\3.1.8\\aspnetcore.iqueryable.extensions.3.1.8.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\bogus\\31.0.3\\bogus.31.0.3.nupkg.sha512",

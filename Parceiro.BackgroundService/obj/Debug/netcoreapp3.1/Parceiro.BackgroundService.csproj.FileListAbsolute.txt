@@ -1,0 +1,17 @@
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.exe
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.deps.json
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.runtimeconfig.json
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.runtimeconfig.dev.json
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Parceiro.BackgroundService.pdb
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.csproj.AssemblyReference.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.AssemblyInfoInputs.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.AssemblyInfo.cs
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.csproj.CoreCompileInputs.cache
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.csproj.CopyComplete
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.dll
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.pdb
+C:\dev\1 - Cursos\Desenvolvedor.io\Curso Identity Server 4\SkyCommerce\Parceiro.BackgroundService\obj\Debug\netcoreapp3.1\Parceiro.BackgroundService.genruntimeconfig.cache
